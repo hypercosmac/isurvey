@@ -1,0 +1,16 @@
+{
+  "name": "isurvey-landing",
+  "version": "1.0.0",
+  "description": "Static landing page for Isurvey design services.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "landing-page",
+    "design",
+    "isurvey"
+  ]
+}
+
+
